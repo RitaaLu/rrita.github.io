@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 銘傳大學
 
 You can use the [editor on GitHub](https://github.com/RitaaLu/rrita.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
